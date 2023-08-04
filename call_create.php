@@ -27,6 +27,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }else{
    
         echo $user_id." This username is not available please try other name.";
+  
+        echo $user_id." This username is not available please try other name.";
     }
 }
 
